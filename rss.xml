@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[goe]]></title>
-        <description><![CDATA[goe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[goe page]]></title>
+        <description><![CDATA[goe page]]></description>
+        <link>https://thegrid.ai/goe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 02:42:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 02:54:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/goe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CTO " Infinity Ventures Summit]]></title>
+            <description><![CDATA[<article><h1>CTO " Infinity Ventures Summit</h1><p>インターネット、モバイル、ソフトウエアなどIT業界の国内外の経営者・経営幹部を対象とした年2回の招待制のオフサイト・カンファレンスです。</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9695c60b50884e4289845d901272a67e8a9f61f5.jpg"></article>]]></description>
+            <link>http://www.infinityventures.com/ivs/cto/</link>
+            <guid isPermaLink="false">9b388b1a-0ed7-4bc0-a63e-fad9f2d06723</guid>
+            <pubDate>Wed, 27 Apr 2016 02:54:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is first page of the grid for me</p>]]></description>
-            <link>undefinedthis-is-first-page-of-the-grid-for-me/index.html</link>
+            <link>https://thegrid.ai/goe/this-is-first-page-of-the-grid-for-me/index.html</link>
             <guid isPermaLink="false">17f408a6-2563-4971-8c92-9e82ac335de9</guid>
             <pubDate>Wed, 27 Apr 2016 02:42:50 GMT</pubDate>
         </item>
