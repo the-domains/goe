@@ -1,7 +1,7 @@
 name: goe
 favicon: null
-layout_spectrum: 0.75384
-typography_spectrum: 0.08368
+layout_spectrum: 0.42907
+typography_spectrum: 0.63352
 title: goe page
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#271412'
-    - '#000000'
-    - '#bb0a13'
-    - '#ff0000'
-    - '#550000'
-  brandStrength: 0.1875
+    - '#c0c0c0'
+    - '#9f9d9e'
+    - '#888483'
+    - '#706762'
+    - '#524612'
+  brandStrength: 0.5
   lightness: 0.8125
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
